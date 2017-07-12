@@ -1,2 +1,2 @@
 # ai.org_GTranslate
-GTranslate plugin scripts
+GTranslate plugin scripts on asianinc.org
